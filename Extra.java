@@ -1,8 +1,8 @@
 public class Extra {
     
-    //DESCRIPTION: ascii art of house
-    //PRECONDITIONS:
-    //POSTCONDITIONS:
+    //DESCRIPTION: ASCII art of house
+    //PRECONDITIONS: none
+    //POSTCONDITIONS: art of house
     public static void artHouse(){
     System.out.println("        `'::.                     ");
     System.out.println("    _________H ,%%&%,            ");
